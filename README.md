@@ -15,4 +15,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Created by Abdullah Nasif
+Created by Abdullah Omar Nasif
