@@ -1,6 +1,6 @@
 # JUNO
 
-JUNO (Java Unified Native Operation) is a lightweight Java framework to write microcontroller programs using the familiar `setup()` and `loop()` style. Currently targeting ESP32, with plans to support other MCUs.
+JUNO (Java Unified Native Operation) is a lightweight Java framework to write microcontroller programs using the familiar `setup()` and `loop()` style. Currently targeting ESP32(ESP-WROOM-32), with plans to support other MCUs.
 
 ## Features
 
